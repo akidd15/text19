@@ -1,2 +1,1 @@
-# text19
-A text editor!
+# Text Editor Starter Code
